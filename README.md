@@ -16,3 +16,9 @@ Friday Night Funkin'
 [Slenderman](https://twastinfg.github.io/FNF-Online-23/slenderman)
 
 [Sonic.exe](https://twastinfg.github.io/FNF-Online-23/sonic-exe)
+
+Rage Games
+
+[Syobon Action (a.k.a Cat Mario)](https://beeswarmkid.github.io/syobon-action)
+
+[Bad Time Simulator (Sans Fight)](https://beeswarmkid.github.io/bad-time-simulator)
