@@ -29,6 +29,10 @@ I just host mostly games on this site, but I also host some other stuff you migh
 
 [Slope](https://beeswarmkid.github.io/slope/index.html)
 
+### Computer Games
+
+[osu!](https://beeswarmkid.github.io/webosu/public/index.html)
+
 # Tools
 
 [CloudForce NOW](https://beeswarmkid.github.io/tools/CloudForce Now.bat)
