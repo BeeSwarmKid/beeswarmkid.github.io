@@ -35,7 +35,7 @@ I just host mostly games on this site, but I also host some other stuff you migh
 
 # Tools
 
-[CloudForce NOW](https://beeswarmkid.github.io/tools/CloudForce Now.bat)
+[CloudForce NOW](https://beeswarmkid.github.io/tools/CloudForce NOW.bat)
 
 Use CloudForce NOW on [GeForce NOW](https://play.geforcenow.com/mall/#/layout/games) to get more out of your GeForce NOW experience.
 
