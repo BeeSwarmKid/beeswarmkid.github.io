@@ -41,6 +41,18 @@ I just host mostly games on this site, but I also host some other stuff you migh
 
 [Friday Night Funkin' But Bad](https://beeswarmkid.github.io/but-bad/index.html)
 
+[Friday Night Funkin' Sarvente's Mid-Fight Masses](https://beeswarmkid.github.io/mid-fight-masses/index.html)
+
+[Friday Night Funkin' The X-Event](https://beeswarmkid.github.io/x-event/index.html)
+
+[Friday Night Funkin' Hypno's Lullaby](https://beeswarmkid.github.io/hypnos-lullaby/index.html)
+
+[Friday Night Funkin' Doki Doki Takeover](https://beeswarmkid.github.io/doki-doki-takeover/index.html)
+
+[Friday Night Funkin' Crypto Crackdown](https://beeswarmkid.github.io/crypto-crackdown/index.html)
+
+[Friday Night Funkin' VS. Bikini Bottom](https://beeswarmkid.github.io/bikini-bottom/index.html)
+
 [Friday Night Funkin' VS. Tord](https://beeswarmkid.github.io/tord/index.html)
 
 [Friday Night Funkin' VS. Annie](https://beeswarmkid.github.io/annie/index.html)
@@ -78,6 +90,30 @@ I just host mostly games on this site, but I also host some other stuff you migh
 [Friday Night Funkin' VS. Whitty](https://beeswarmkid.github.io/whitty/index.html)
 
 [Friday Night Funkin' VS. CG5](https://beeswarmkid.github.io/cg5/index.html)
+
+[Friday Night Funkin' VS. Sky](https://beeswarmkid.github.io/sky/index.html)
+
+[Friday Night Funkin' VS. Tricky](https://beeswarmkid.github.io/tricky/index.html)
+
+[Friday Night Funkin' VS. Trollface](https://beeswarmkid.github.io/trollface/index.html)
+
+[Friday Night Funkin' VS. Nonsense](https://beeswarmkid.github.io/nonsense/index.html)
+
+[Friday Night Funkin' VS. Tricky](https://beeswarmkid.github.io/tricky/index.html)
+
+[Friday Night Funkin' VS. Cassette Girl](https://beeswarmkid.github.io/cassette-girl/index.html)
+
+[Friday Night Funkin' VS. Mag Agent Torture](https://beeswarmkid.github.io/mag-agent-torture/index.html)
+
+[Friday Night Funkin' VS. Mokey Mouse](https://beeswarmkid.github.io/mokey-mouse/index.html)
+
+[Friday Night Funkin' VS. Ghost Twins](https://beeswarmkid.github.io/ghost-twins/index.html)
+
+[Friday Night Funkin' VS. Cyrix](https://beeswarmkid.github.io/cyrix/index.html)
+
+[Friday Night Funkin' VS. Tankman (Optimized)](https://beeswarmkid.github.io/tankman/index.html)
+
+[Friday Night Funkin' VS. Steve](https://beeswarmkid.github.io/steve/index.html)
 
 ### Rage Games
 
