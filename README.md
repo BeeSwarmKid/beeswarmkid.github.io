@@ -3,22 +3,24 @@ its an unblocked games site lmao
 
 Friday Night Funkin'
 
-[Vs 8-bit Ryan](https://twastinfg.github.io/FNF-Online-23/8bitryan)
+[VS. 8-Bit-Ryan](https://beeswarmkid.github.io/8-bit-ryan/index.html)
 
-[Vs Camellia](https://twastinfg.github.io/FNF-Online-23/camellia)
+[VS. Camellia](https://beeswarmkid.github.io/camellia/index.html)
 
-[Soft Mod](https://twastinfg.github.io/FNF-Online-23/fnf-soft)
+[Friday Night Funkin' Soft](https://beeswarmkid.github.io/soft/index.html)
 
-[Vs Imposters](https://twastinfg.github.io/FNF-Online-23/impostor-v3)
+[VS. Impostor](https://beeswarmkid.github.io/impostor/index.html)
 
-[QT](https://twastinfg.github.io/FNF-Online-23/qt)
+[VS. QT](https://beeswarmkid.github.io/qt/index.html)
 
-[Slenderman](https://twastinfg.github.io/FNF-Online-23/slenderman)
+[VS. Slenderman](https://beeswarmkid.github.io/slenderman/index.html)
 
-[Sonic.exe](https://twastinfg.github.io/FNF-Online-23/sonic-exe)
+[VS. Sonic.exe](https://beeswarmkid.github.io/sonic-exe/index.html)
 
 Rage Games
 
-[Syobon Action (a.k.a Cat Mario)](https://beeswarmkid.github.io/syobon-action)
+[Syobon Action (a.k.a Cat Mario)](https://beeswarmkid.github.io/syobon-action/index.html)
 
-[Bad Time Simulator (Sans Fight)](https://beeswarmkid.github.io/bad-time-simulator)
+[Bad Time Simulator (Sans Fight)](https://beeswarmkid.github.io/bad-time-simulator/index.html)
+
+[Slope](https://beeswarmkid.github.io/slope/index.html)
