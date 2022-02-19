@@ -35,6 +35,10 @@ I just host mostly games on this site, but I also host some other stuff you migh
 
 [Friday Night Fever](https://beeswarmkid.github.io/fever/index.html)
 
+[Friday Night Funkin' Hellbeats](https://beeswarmkid.github.io/hellbeats/index.html)
+
+[Friday Night Funkin' Neo](https://beeswarmkid.github.io/neo/index.html)
+
 [Friday Night Funkin' But Bad](https://beeswarmkid.github.io/but-bad/index.html)
 
 [Friday Night Funkin' VS. Tord](https://beeswarmkid.github.io/tord/index.html)
@@ -72,6 +76,8 @@ I just host mostly games on this site, but I also host some other stuff you migh
 [Friday Night Funkin' VS. K.K Slider](https://beeswarmkid.github.io/kk-slider/index.html)
 
 [Friday Night Funkin' VS. Whitty](https://beeswarmkid.github.io/whitty/index.html)
+
+[Friday Night Funkin' VS. CG5](https://beeswarmkid.github.io/cg5/index.html)
 
 ### Rage Games
 
