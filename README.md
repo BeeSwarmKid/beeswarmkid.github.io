@@ -1,5 +1,5 @@
-# Linode's Unblocked Games
-Just a little site
+# BeeSwarmKid's Unblocked Games
+its an unblocked games site lmao
 ###
 ### [Vs 8-bit Ryan](https://twastinfg.github.io/FNF-Online-23/8bitryan) 
 ### [Vs Camellia](https://twastinfg.github.io/FNF-Online-23/camellia)
