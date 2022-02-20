@@ -129,7 +129,7 @@ I just host mostly games on this site, but I also host some other stuff you migh
 
 ### Mobile Games
 
-[osu!](https://beeswarmkid.github.io/retro-bowl/index.html)
+[Retro Bowl](https://beeswarmkid.github.io/retro-bowl/index.html)
 
 # Tools
 
