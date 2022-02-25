@@ -29,6 +29,10 @@ If you own an games site, feel free to put any of these games on your site.
 
 [Retro Bowl](https://lin0de.github.io/retro-bowl/index.html)
 
+### FPS Games
+
+[1v1.lol](https://lin0de.github.io/1v1.lol/index.html)
+
 # Tools
 
 ### CloudForce NOW
