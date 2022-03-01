@@ -1,0 +1,4 @@
+Update Log
+v1.0.0
+
+This is literally the first release, nothing to see here.
