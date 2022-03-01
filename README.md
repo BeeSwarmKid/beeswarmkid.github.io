@@ -21,6 +21,8 @@ If you own an games site, feel free to put any of these games on your site.
 
 [Slope](https://lin0de.github.io/slope/index.html)
 
+[Stack](https://lin0de.github.io/stack/index.html)
+
 ### Computer Games
 
 [osu!](https://lin0de.github.io/webosu/index.html)
