@@ -31,7 +31,7 @@ If you own an games site, feel free to put any of these games on your site.
 
 ### FPS Games
 
-[1v1.lol](https://lin0de.github.io/1v1-lol/index.html)
+[1v1.lol](https://lin0de.github.io/1v1-lol/1v1.lol/index.htm)
 
 # Tools
 
