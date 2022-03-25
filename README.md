@@ -1,6 +1,6 @@
 ### Linode's Directory
 
-Welcome to Linode's Directory
+Welcome to Linode's Directory!
 
 I finally put effort into something... it was this list. 🤓
 
