@@ -11,6 +11,7 @@ Friday Night Funkin'
 
 [Friday Night Funkin' (w/ Week 7)](/funkin/index.html)
 
+
 Rage Games
 ---------------------
 
@@ -24,9 +25,14 @@ Rage Games
 
 [Stack](/stack/index.html)
 
-end of list O_o
 
+Mobile Games
+---------------------
+
+[Retro Bowl](/retro-bowl/index.html)
+
+### End of list. O_o
 
 © Linode's Directory 2022. All rights reserved.
 
-Credits to [linode](https://github.com/lin0de)!
+Credits to [linode](https://github.com/lin0de) for making the list.
