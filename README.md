@@ -1,46 +1,32 @@
-# Linode's Directory
-Welcome to Linode's Directory!
+### Linode's Directory
 
-If you own an games site, feel free to put any of these games on your site.
+Welcome to Linode's Directory
 
-[Replit Profile](https://replit.com/@lin0de)
+I finally put effort into something... it was this list. 🤓
 
-# Games
+If you are the creator of one of these games and want one of them taken down, please contact me on Discord. (linode#5936)
 
-### Friday Night Funkin'
+Friday Night Funkin'
+---------------------
 
-[Friday Night Funkin' (w/ Week 7)](https://lin0de.github.io/funkin/index.html)
+[Friday Night Funkin' (w/ Week 7)](/funkin/index.html)
 
-### Rage Games
+Rage Games
+---------------------
 
-[Syobon Action (a.k.a Cat Mario)](https://lin0de.github.io/syobon-action/index.html)
+[Syobon Action (a.k.a Cat Mario)](/syobon-action/index.html)
 
-[Bad Time Simulator (Sans Fight)](https://lin0de.github.io/bad-time-simulator/index.html)
+[Bad Time Simulator (Sans Fight)](/bad-time-simulator/index.html)
 
-[Tunnel Rush](https://lin0de.github.io/tunnel-rush/index.html)
+[Tunnel Rush](/funkin/index.html)
 
-[Slope](https://lin0de.github.io/slope/index.html)
+[Slope](/slope/index.html)
 
-[Stack](https://lin0de.github.io/stack/index.html)
+[Stack](/stack/index.html)
 
-### Computer Games
+end of list O_o
 
-[osu!](https://lin0de.github.io/webosu/index.html)
 
-### Mobile Games
+© Linode's Directory 2022. All rights reserved.
 
-[Retro Bowl](https://lin0de.github.io/retro-bowl/index.html)
-
-### FPS Games
-
-[1v1.lol](https://lin0de.github.io/1v1-lol/index.html)
-
-# Tools
-
-### CloudForce NOW
-
-Use CloudForce NOW on [GeForce NOW](https://play.geforcenow.com/mall/#/layout/games) to get more out of your GeForce NOW experience.
-
-CloudForce NOW includes ROBLOX, Firefox, qBitTorrent and more!
-
-[Download](https://lin0de.github.io/tools/CloudForce%20NOW.bat)
+Credits to [linode](https://github.com/lin0de)!
