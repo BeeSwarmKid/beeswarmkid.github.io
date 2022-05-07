@@ -1,10 +1,10 @@
-### Linode's Directory
+### Sorena's Directory
 
-Welcome to Linode's Directory!
+Welcome to Sorena's Directory!
 
 I finally put effort into something... it was this list. 🤓
 
-If you are the creator of one of these games and want one of them taken down, please contact me on Discord. (linode#5936)
+If you are the creator of one of these games and want one of them taken down, please contact me on Discord. (Sorena#5936)
 
 Friday Night Funkin'
 ---------------------
