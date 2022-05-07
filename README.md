@@ -35,4 +35,4 @@ Mobile Games
 
 © Linode's Directory 2022. All rights reserved.
 
-Credits to [linode](https://github.com/lin0de) for making the list.
+Credits to [Sorena](https://github.com/NotSorena) for making the list.
